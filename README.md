@@ -13,6 +13,11 @@ This project leverages the YOLOv8 algorithm to automatically identify and classi
 - High-speed detection with YOLOv8.
 - Improved accuracy in fault classification.
 
+**Images:**
+- ![PCB Fault Detection Output](PCB_output.png)
+- ![Testing Model](testing_model.png)
+- ![Training Model](taining_model.png)
+
 **Plugins Used:**
 - **External Plugins:** YOLOv8 for object detection.
 - **Internal Plugins:** Custom data preprocessing and post-processing scripts to optimize detection performance.
@@ -28,8 +33,12 @@ The Hospital Management System (HM-BML) project integrates Machine Learning and 
 - Integration of Machine Learning for data analysis.
 - Blockchain technology for tamper-proof records.
 
+**Image:**
+- ![HM-BML Prototype](Prototype.png)
+
 **Plugins Used:**
 - **External Plugins:** Blockchain libraries for secure data management.
 - **Internal Plugins:** Machine Learning models for analyzing patient data and enhancing decision-making processes.
 
 ---
+
